@@ -1,0 +1,2 @@
+### Get all icons (10)
+GET http://localhost:3000/icons
